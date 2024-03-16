@@ -1,0 +1,4 @@
+{
+    "sketch": "2430_PID_loop.ino",
+    "board": "arduino:avr:uno"
+}
